@@ -5,12 +5,8 @@
 </p>  
 
 <p align="center">
-  <img src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif" alt="Cyber Security" width="400"/>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMclDLtbxPxNCqz5U1jQ-Maf2mloCJqNu0s_aEX59Zv6zh9pUWtyH1Z-TxrDdTqC0V_K6UmzmeuBFovA3LmJxF2FIbCEbu5t5CnRXYqR2nhYJheQUxudchG_U_DTXr5yhId4sTnl5ghM/s750/Difference+between+Software+Security+and+Cyber+Security.jpg" alt="DevOps Enthusiast" width="400"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMclDLtbxPxNCqz5U1jQ-Maf2mloCJqNu0s_aEX59Zv6zh9pUWtyH1Z-TxrDdTqC0V_K6UmzmeuBFovA3LmJxF2FIbCEbu5t5CnRXYqR2nhYJheQUxudchG_U_DTXr5yhId4sTnl5ghM/s750/Difference+between+Software+Security+and+Cyber+Security.jpg" alt="DevOps Enthusiast" width="600"/>
 </p>
-
-
-
 
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ARIFUL-ISLAM8"> ARIFUL ISLAM </a></h3>
