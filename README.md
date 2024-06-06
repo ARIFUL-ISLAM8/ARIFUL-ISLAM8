@@ -1,16 +1,11 @@
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Software+&+Cybersecurity;Always+learning+and;improving+in+the+field" alt="Typing SVG" />
-</a>
+![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-</p>  
+<img aligh="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMclDLtbxPxNCqz5U1jQ-Maf2mloCJqNu0s_aEX59Zv6zh9pUWtyH1Z-TxrDdTqC0V_K6UmzmeuBFovA3LmJxF2FIbCEbu5t5CnRXYqR2nhYJheQUxudchG_U_DTXr5yhId4sTnl5ghM/s750/Difference+between+Software+Security+and+Cyber+Security.jpg" alt="DevOps Enthusiast" width="600"/>
-</p>
+<img aligh="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/ARIFUL-ISLAM8"> ARIFUL ISLAM </a></h3>
+<h3 align="center">Hey there👋, I'm <a href="https://github.com/ARIFUL-ISLAM8"> ARIFUL ISLAM </a></h3>
 
 # 💫 About Me:
 <br>⚡ Passionate about Software & Cybersecurity<br>🏆 Recognized for exceptional problem-solving prowess<br>🧙‍♂️ Proficient and experienced in Algorithms and Data Structures<br>💻 Successfully tackled many online programming challenges<br>🛡️ Thrives on teamwork and embraces new challenges eagerly<br>👯 Actively seeking collaboration opportunities in Open Source Projects<br>💬 Feel free to inquire about Python, OOP, Data Structures, or Algorithms
