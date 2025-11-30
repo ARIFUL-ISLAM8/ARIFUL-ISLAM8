@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+passionate+about+Software; And+Cyber+Security; Always+learning+and;improving+in+the+field" alt="Typing SVG" />
 </a>
 </p> 
