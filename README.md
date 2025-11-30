@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-<br>⚡ Passionate about Software <br>🏆 Recognized for exceptional problem-solving prowess <br>🧙‍♂️ Proficient and experienced in Algorithms and Data Structures <br>💻 Successfully tackled many online programming challenges <br>🛡️ Thrives on teamwork and embraces new challenges eagerly<br>👯 Actively seeking collaboration opportunities in Open Source Projects<br>💬 Feel free to inquire about Python, OOP, Data Structures, or Algorithms
+<br>⚡ Aspiring Software Engineer <br>🏆 Recognized for exceptional problem-solving prowess <br>🧙‍♂️ Proficient and experienced in Algorithms and Data Structures <br>💻 Successfully tackled many online programming challenges <br>🛡️ Thrives on teamwork and embraces new challenges eagerly<br>👯 Actively seeking collaboration opportunities in Open Source Projects<br>💬 Feel free to inquire about Python, OOP, Data Structures, or Algorithms
 
 
 ## 🌐 Socials:
