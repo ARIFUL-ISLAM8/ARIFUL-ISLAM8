@@ -6,9 +6,9 @@
 
 ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h3 align="center">Hey there👋, I'm <a href="https://github.com/ARIFUL-ISLAM8"> ARIFUL ISLAM </a></h3>
-<img aligh="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+<img aligh="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 
-<img aligh="right" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img aligh="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 
