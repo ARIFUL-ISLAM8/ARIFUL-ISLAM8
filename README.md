@@ -14,7 +14,7 @@
 
 
 # 💫 About Me:
-<br>⚡ Aspiring Software Engineer | BSc in Computer Science <br>💻 Skilled in Python, OOP, Data Structures & Algorithms <br>🏆 Experienced in solving complex programming challenges <br>🤝 Enthusiastic about teamwork and open-source contributions <br>💬 Open to discussions on Python, software engineering, and algorithmic problem-solvin<br>👯 Actively seeking collaboration opportunities in Open Source Projects
+<br>⚡ Aspiring Software Engineer | BSc in Computer Science <br>💻 Skilled in Python, OOP, Data Structures & Algorithms <br>🏆 Experienced in solving complex programming challenges <br>🤝 Enthusiastic about teamwork and open-source contributions <br>💬 Open to discussions on Python, software engineering, and algorithmic problem-solving<br>👯 Actively seeking collaboration opportunities in Open Source Projects
 
 
 ## 🌐 Socials:
