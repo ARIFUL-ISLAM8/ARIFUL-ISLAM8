@@ -11,7 +11,7 @@ I develop web applications using the MERN stack, Laravel, and Flutter, with a st
 
 On the AI side, I've integrated the Claude API and OpenAI API into production-ready applications, explored prompt engineering, and I'm actively building knowledge in LangChain, RAG pipelines, vector databases, and HuggingFace — the core stack for the next generation of LLM-powered systems.
 
-Currently open to internship and entry-level roles in **Full-Stack Development**, **Python Development**, **Software Quality Assurance**, and **AI/ML Engineering**. I'm ready to learn fast, ship meaningfully, and grow with a great team.
+Currently open to internship and entry-level roles in **Full-Stack Development**, **Python Development**, **Software Quality Assurance**, **Data Analytics** and **AI/ML Engineering**. I'm ready to learn fast, ship meaningfully, and grow with a great team.
 
 - ⚡ **Focus**: Full-Stack Development, Python Development, Software Quality Assurance
 - 🤖 **Active Learning**: LangChain, RAG Pipelines, Vector Databases, HuggingFace, Embeddings
